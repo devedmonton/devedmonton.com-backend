@@ -1,0 +1,11 @@
+# Don't include git folder
+.git
+
+# Make sure local media isn't uploaded
+devedmonton/media/*
+devedmonton/static_collected
+
+# Ignore mypy_cache
+.mypy_cache
+.tests
+.venv

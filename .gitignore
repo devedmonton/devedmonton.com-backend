@@ -1,0 +1,56 @@
+# Python
+*.py[cod]
+*.egg*
+.env
+.project
+
+# Temporary files
+*.swp
+*.swo
+*.tmp
+*~
+
+# Packages
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+*.sqlite3
+*.db
+*.dump
+*.csv
+
+# OS generated files
+.DS_Store*
+thumbs.db
+Thumbs.db
+Desktop.ini
+.vscode
+
+# Front-end files
+.sass-cache
+e2e_output
+.imagemin_cache
+
+local.py
+.cache/
+htmlcov/
+.coverage
+test_db
+
+.vimcache
+/tags
+.mypy_cache
+
+#Docs
+_build/
+.pytest_cache/
